@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700');
+
+body {
+  font-family: "Roboto",sans-serif;
+  font-size: 16px;
+
+}
+
+nav img {
+  height: 80px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+.socialmedia {
+  font-size: 24px;
+  padding-top: 40px;
+  padding-right: 20px;
+}
+
+.socialmedia li a {
+  color: black;
+}
+
+
+div.navbar-collapse.collapse {
+  border-top: 1px solid black;
+  /*border-bottom: 1px solid black;
+  background: black;*/
+
+}
+div.navbar-collapse.collapse li a {
+  color: black;
+  font-weight: 300;
+}
+
+button.navbar-toggle span {
+  background: black;
+}
+
+button.navbar-toggle {
+  padding-top: 30px;
+}
